@@ -3,7 +3,7 @@
 ### The Application Container Engine
 <br/>
 
-Frank Scholten
+ir. Frank Scholten
 <br/>
 <br/>
 NLUUG Fall Conference 2014
@@ -170,8 +170,6 @@ NLUUG Fall Conference 2014
 
 <br/>
 
-#### Max 127 layers
-
 -
 
 ### Create an image
@@ -331,10 +329,6 @@ NLUUG Fall Conference 2014
 #### Low-level: namespaces, eth devices, etc
 <br/>
 #### Goal: standardize container API
-
--
-
-## Golang
 
 -
 
