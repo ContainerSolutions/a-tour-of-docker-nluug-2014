@@ -171,7 +171,7 @@ NLUUG Fall Conference 2014
 ### Dockerfiles
 <br/>
 
-<iframe style="width: 840px; height: 600px;" src="http://localhost:3000/api/asciicasts/8?size=medium&scrolling=no" async></iframe>
+<iframe style="width: 840px; height: 600px;" src="http://localhost:3000/api/asciicasts/7?size=medium&scrolling=no" async></iframe>
 
 -
 
@@ -321,22 +321,13 @@ NLUUG Fall Conference 2014
 
 -
 
-### Libswarm
-<br/>
-#### Docker's own orchestration tool
-<br/>
-#### Goal: integrate with previously mentioned frameworks
-<br/>
-
--
-
 ### Which tools to use?
 <br/>
 #### A lot of overlap in features
 </br>
-#### Cloud services help experimentation
-</br>
 #### Time will tell which ones gain most adoption
+</br>
+#### Cloud services help experimentation
 
 -
 
